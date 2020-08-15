@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm a long-time engineer turned engineering manager. I live in Amsterdam and currently work at Uber.
+I'm a long-time engineer turned engineering manager. I live in Amsterdam, the Netherlands and currently work at Uber.
 
 ### Writing
 - 💬 I share what I've learned on software engineering on [The Pragmatic Engineer blog](https://blog.pragmaticengineer.com/about/). You can sign up to a monthly newsletter to get a summary of the posts.
