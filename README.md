@@ -3,7 +3,7 @@ I'm a long-time engineer turned engineering manager. I live in Amsterdam, the Ne
 ### Writing
 - 💬 I share what I've learned on software engineering on [The Pragmatic Engineer blog](https://blog.pragmaticengineer.com/about/). You can sign up to a monthly newsletter to get a summary of the posts.
 - 📕 I'm close to finishing [The Tech Resume Inside Out](https://thetechresume.com/) book.
-- 📘 I'm writing a [book on growing as a software engineer](https://blog.pragmaticengineer.com/book/). If you're a developer, you can help out by [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSfkyhweBIkfDGCGtSnJQ6nXuWaGL-7sPhpDGifqBBMTl1aXWw/viewform) about your professional experience. [Sign up](https://tinyletter.com/pragmaticengineer) to be notified when this will be read.
+- 📘 I'm writing a [book on growing as a software engineer](https://blog.pragmaticengineer.com/book/). If you're a developer, you can help out by [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSfkyhweBIkfDGCGtSnJQ6nXuWaGL-7sPhpDGifqBBMTl1aXWw/viewform) about your professional experience. [Sign up](https://tinyletter.com/pragmaticengineer) to be notified when this will be released.
 
 ### Work
 - **Uber**: built a lot of things at related to money: payments on the mobile and web, in the Rider, Driver and Eats app. Worked on some of the high-load [distributed systems](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/) powering these products. The money systems handled more than $50B/year for more than 100M monthly users. Started as an engineer and I ended up managing a few teams later on.
