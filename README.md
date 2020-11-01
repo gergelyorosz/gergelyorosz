@@ -2,7 +2,7 @@ I'm a long-time engineer turned engineering manager. I live in Amsterdam, the Ne
 
 ### Writing
 - 💬 I share what I've learned on software engineering on [The Pragmatic Engineer blog](https://blog.pragmaticengineer.com/about/). You can sign up to a monthly newsletter to get a summary of the posts.
-- 📕 I'm close to finishing [The Tech Resume Inside Out](https://thetechresume.com/) book.
+- 📕 I published [The Tech Resume Inside Out](https://thetechresume.com/) book.
 - 📘 I'm writing a [book on growing as a software engineer](https://blog.pragmaticengineer.com/book/). If you're a developer, you can help out by [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSfkyhweBIkfDGCGtSnJQ6nXuWaGL-7sPhpDGifqBBMTl1aXWw/viewform) about your professional experience. [Sign up](https://tinyletter.com/pragmaticengineer) to be notified when this will be released.
 
 ### Work
