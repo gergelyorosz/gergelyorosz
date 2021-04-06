@@ -14,7 +14,7 @@ I'm a long-time engineer turned engineering manager. I live in Amsterdam, the Ne
 
 ### Open Source
 - Helped open source [RIBs](https://github.com/uber/RIBs), Uber's cross-platform mobile architecture framework. I did [some talks on RIBs](https://blog.pragmaticengineer.com/talks/#mobile-architecture-at-scale) as well.
-- Co-built [SkyFloatingLabeTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField), a Swift implementation of the "float label textfield".
+- Co-built [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField), a Swift implementation of the "float label textfield".
 - 💀 Open sourced [AdRotator](https://github.com/Adrotator/AdrotatorV2), a highly customizable ad rotation solution for Windows Phone and Windows 8. At its peak, over 1,000 apps were using (and making money with) this component.
 
 ### Contact
