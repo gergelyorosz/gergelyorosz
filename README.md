@@ -1,8 +1,10 @@
-I'm a long-time engineer turned engineering manager. I live in Amsterdam, the Netherlands and currently work at Uber.
+I write [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), the #1 newsletter for engineering managers and software engineers. I'm also and advisor at [mobile.dev](https://mobile.dev/) where we're building the new standard for mobile development.
+
+I live in Amsterdam, the Netherlands and currently work at Uber.
 
 ### Writing
 - 💬 I share what I've learned on software engineering on [The Pragmatic Engineer blog](https://blog.pragmaticengineer.com/about/). You can sign up to a monthly newsletter to get a summary of the posts.
-- 📕 I published [The Tech Resume Inside Out](https://thetechresume.com/) book.
+- 📕 I published [The Tech Resume Inside Out](https://thetechresume.com/), [Building Mobile Apps at Scale](https://www.mobileatscale.com/) and [Growing as a Mobile Engineer](https://www.mobileatscale.com/growing.html).
 - 📘 I'm writing a [book on growing as a software engineer](https://blog.pragmaticengineer.com/book/). If you're a developer, you can help out by [filling out this survey](https://docs.google.com/forms/d/e/1FAIpQLSfkyhweBIkfDGCGtSnJQ6nXuWaGL-7sPhpDGifqBBMTl1aXWw/viewform) about your professional experience. [Sign up](https://tinyletter.com/pragmaticengineer) to be notified when this will be released.
 
 ### Work
