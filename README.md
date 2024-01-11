@@ -1,4 +1,4 @@
-I write [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), the #1 newsletter for engineering managers and software engineers. I'm also and advisor at [mobile.dev](https://mobile.dev/) where we're building the new standard for mobile development.
+I write [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), the #1 newsletter for engineering managers and software engineers. I'm also an advisor at [mobile.dev](https://mobile.dev/) where we're building the new standard for mobile development.
 
 I live in Amsterdam, the Netherlands and currently work at Uber.
 
@@ -9,10 +9,10 @@ I live in Amsterdam, the Netherlands and currently work at Uber.
 
 ### Work
 - **Uber**: built a lot of things at related to money: payments on the mobile and web, in the Rider, Driver and Eats app. Worked on some of the high-load [distributed systems](https://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/) powering these products. The money systems handled more than $50B/year for more than 100M monthly users. Started as an engineer and I ended up managing a few teams later on.
-- **Skyscanner**: launched [Skyscanner TravelPro](https://www.travolution.com/articles/14875/skyscanner-takes-step-into-business-travel-with-travelpro): a coprorate travel booking solution. We signed up Transferwise as the first customer, then a few more companies, before realizing we did not hit product-market fit. I moved to Uber as we pivoted - and later the service was merged back into Skyscanner (a fancy way of saying it shut down). 
+- **Skyscanner**: launched [Skyscanner TravelPro](https://www.travolution.com/articles/14875/skyscanner-takes-step-into-business-travel-with-travelpro): a corporate travel booking solution. We signed up Transferwise as the first customer, then a few more companies, before realizing we did not hit product-market fit. I moved to Uber as we pivoted - and later the service was merged back into Skyscanner (a fancy way of saying it shut down). 
 - **Skype / Microsoft**: worked on teams building a few standalone Skype products: Skype for Xbox One, Skype for the web and integrating Skype into Outlook.com. These products were used by more than 400M people at the time. Also built Skype for Firefox OS on an internal hackathon, but we never launched this one.
 - **JP Morgan**: built equity derivatives trading systems (exotics and delta ones) at JP Morgan. Sounds more complicated than it actually was. WPF, Java and the lot.
-- **Mobile apps**: was a profilic [Windows Phone developer](https://blogs.windows.com/devices/2012/08/22/flowing-apps-with-developer-gergely-orosz/), building apps with over 15M total downloads.
+- **Mobile apps**: was a prolific [Windows Phone developer](https://blogs.windows.com/devices/2012/08/22/flowing-apps-with-developer-gergely-orosz/), building apps with over 15M total downloads.
 
 ### Open Source
 - Helped open source [RIBs](https://github.com/uber/RIBs), Uber's cross-platform mobile architecture framework. I did [some talks on RIBs](https://blog.pragmaticengineer.com/talks/#mobile-architecture-at-scale) as well.
