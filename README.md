@@ -1,4 +1,4 @@
-Writing [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), the #1 technology newsletter [on Substack](https://substack.com/top/technology), and author of [The Software Engineer's Guidebook](https://www.engguidebook.com/). Advisor at [mobile.dev](https://mobile.dev/) where we're building the new standard for mobile development.
+Writing [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), the #1 technology newsletter [on Substack](https://substack.com/top/technology), and author of [The Software Engineer's Guidebook](https://www.engguidebook.com/).
 
 I live in Amsterdam, the Netherlands. Formerly worked at Uber, Microsoft/Skype, Skyscanner and JP Morgan.
 
